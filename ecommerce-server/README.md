@@ -5,6 +5,7 @@ Este proyecto es un servidor de e-commerce desarrollado con Node.js y Express. P
 ## Estructura del Proyecto
 
 
+```
 ecommerce-server
 ├── src
 │   ├── app.js                  # Punto de entrada de la aplicación
@@ -20,6 +21,7 @@ ecommerce-server
 ├── package.json                # Configuración de npm
 ├── .env                        # Variables de entorno
 └── README.md                   # Documentación del proyecto
+```
 
 ## Endpoints
 

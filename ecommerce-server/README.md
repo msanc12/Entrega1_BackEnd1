@@ -4,7 +4,7 @@ Este proyecto es un servidor de e-commerce desarrollado con Node.js y Express. P
 
 ## Estructura del Proyecto
 
-```
+
 ecommerce-server
 ├── src
 │   ├── app.js                  # Punto de entrada de la aplicación
@@ -20,35 +20,6 @@ ecommerce-server
 ├── package.json                # Configuración de npm
 ├── .env                        # Variables de entorno
 └── README.md                   # Documentación del proyecto
-```
-
-## Instalación
-
-1. Clona el repositorio:
-   ```
-   git clone <url-del-repositorio>
-   ```
-2. Navega al directorio del proyecto:
-   ```
-   cd ecommerce-server
-   ```
-3. Instala las dependencias:
-   ```
-   npm install
-   ```
-
-## Configuración
-
-Crea un archivo `.env` en la raíz del proyecto y define las variables necesarias, como el puerto en el que escuchará el servidor.
-
-## Ejecución
-
-Para iniciar el servidor, utiliza el siguiente comando:
-```
-npm start
-```
-
-El servidor escuchará en el puerto especificado en el archivo `.env`.
 
 ## Endpoints
 
